@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1616941207 source:c:\users\ÎâÒà·²\desktop\qgprojects\dulinkedlist\dulinkedlist\dulinkedlist.c
+	"duLinkedList.h"
+
+1616935529 c:\users\ÎâÒà·²\desktop\qgprojects\dulinkedlist\dulinkedlist\dulinkedlist.h
+	<stdio.h>
+
+1616941208 source:c:\users\ÎâÒà·²\desktop\qgprojects\dulinkedlist\dulinkedlist\main.c
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	"duLinkedList.h"
+

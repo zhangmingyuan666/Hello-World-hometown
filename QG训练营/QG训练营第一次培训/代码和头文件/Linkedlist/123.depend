@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1616835841 source:c:\users\吴亦凡\desktop\qg训练营\qg训练营第一次培训\代码和头文件\linklist单链表\linkedlist.c
+	"malloc.h"
+	"stdio.h"
+	"stdlib.h"
+	"linkedList.h"
+
+1616825755 c:\users\吴亦凡\desktop\qg训练营\qg训练营第一次培训\代码和头文件\linklist单链表\linkedlist.h
+
+1616835917 source:c:\users\吴亦凡\desktop\qg训练营\qg训练营第一次培训\代码和头文件\linklist单链表\main.c
+	"linkedList.h"
+	"malloc.h"
+	"stdlib.h"
+	"stdio.h"
+
+1616928361 source:c:\users\吴亦凡\desktop\project1111\123\linkedlist.c
+	"malloc.h"
+	"stdio.h"
+	"stdlib.h"
+	"linkedList.h"
+
+1616919581 c:\users\吴亦凡\desktop\project1111\123\linkedlist.h
+	"stdio.h"
+
+1616927574 source:c:\users\吴亦凡\desktop\project1111\123\main.c
+	"linkedList.h"
+	"malloc.h"
+	"stdlib.h"
+	"stdio.h"
+	"windows.h"
+
